@@ -1,0 +1,20 @@
+Configurazione FUSE
+1) Options-select roms-peripheral roms-opus discovery = carica la rom (opus o quickdos)
+2) Options-peripherals-general = tutto off
+3) Options-peripherals-disk = opus discovery interface
+4) Options-disk options = Opus drive 1 (ds 80track) Opus drive 2 (ss 40track)
+
+Formattazione floppy 720k
+1) caricare "format" presente nel disk dell'upgrade dell'opus
+2) configurare così: 
+	Drive 1 
+	c per cambiare impostazioni
+	tracks 80
+	sectors per track 18
+	sector size 256
+	sectors for catalog 8
+	sides 2
+	
+Copia da disco a disco
+1) caricare "file mover" da sdcnl 9
+2) F 2, T 1, s, z
