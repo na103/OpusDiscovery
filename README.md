@@ -1,5 +1,6 @@
 # Misc  notes, documents, pictures, and software for Opus Discovery
 <br><br>
+![alt text](https://github.com/na103/OpusDiscovery/blob/main/Images/OpusDiscovery1.png "Opus Discovery 1")
 ## Some useful links
 https://www.jungsi.de/opus-discovery-umruestung-retro-sinclair-zx-spectrum/
 https://retroordenadoresorty.blogspot.com/2021/06/opus-discovery-1-interface-de-disco.html
