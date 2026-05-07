@@ -5,3 +5,4 @@ https://www.jungsi.de/opus-discovery-umruestung-retro-sinclair-zx-spectrum/
 https://retroordenadoresorty.blogspot.com/2021/06/opus-discovery-1-interface-de-disco.html
 https://www.claudiodicesare.it/2020/09/25/un-clone-dellopus-discovery-per-zx-spectrum/
 https://www.nightfallcrew.com/16/12/2015/opus-discovery-1-for-sinclair-zx-spectrum/
+https://simonowen.com/samdisk/
