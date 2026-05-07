@@ -8,3 +8,6 @@ https://www.claudiodicesare.it/2020/09/25/un-clone-dellopus-discovery-per-zx-spe
 https://www.nightfallcrew.com/16/12/2015/opus-discovery-1-for-sinclair-zx-spectrum/
 <br>
 https://simonowen.com/samdisk/
+
+## Thanks
+Thankyou to Federico Di Dato for sharing his collection of software and documents.<br>
